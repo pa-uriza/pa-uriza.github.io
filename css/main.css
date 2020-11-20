@@ -42,8 +42,30 @@ ul.posts li {
     list-style: none;
 }
 
+.box{
+    text-align: center;
+    margin: auto;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 .box-img {
     border-radius: 50%;
-    width: 200 px;
-    height: 200 px;
+    width: 200px;
+    height: 200px;
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.box h5{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+.box p{
+    text-align: justify;
 }
