@@ -1,0 +1,72 @@
+I"
+<aside class="sidebar">
+  <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="/"><img src="/assets/img/profile_pic.jpg" alt="Pablo Andrés Uriza" /></a>
+      </div>
+      <div class="author-name">Pablo Andrés Uriza</div>
+      <p>Engineer, data-scientist, educator and researcher.</p>
+    </div>
+  </header> <!-- End Header -->
+
+  
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+    <a class="sidebar-nav-item active" href="/publications">Publications</a>
+    <a class="sidebar-nav-item" href="/cv/CV_PAUA.pdf">CV</a>
+  </nav>
+
+  <footer>
+    <section class="contact">
+      <h3 class="contact-title">Contact me</h3>
+      <ul>
+        
+          <li class="github"><a href="http://github.com/pa-uriza" target="_blank"><i class="fa fa-github"></i></a></li>
+        
+        
+          <li class="linkedin"><a href="https://in.linkedin.com/in/andres920310" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        
+        
+          <li class="email"><a href="mailto:pa.uriza274@uniandes.edu.co"><i class="fa fa-envelope-o"></i></a></li>
+        
+        <li><a href="https://scholar.google.es/citations?hl=es&amp;pli=1&amp;user=qdNqzggAAA" target="_blank"><i class="ai ai-google-scholar"></i></a></li>
+        <li><a href="https://orcid.org/0000-0003-4054-0047" target="_blank"><i class="ai ai-orcid"></i></a></li>
+      </ul>
+    </section> <!-- End Section Contact -->
+    <div class="copyright">
+      <p>2020 &copy; Pablo Andrés Uriza</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside>
+<p><!-- End Sidebar --></p>
+<div class="content-box clearfix">
+  
+<article class="post">
+  
+    <a class="post-thumbnail" style="background-image: url(/assets/img/weight_compensation.jpg)" href="/weight_compensation/"></a>
+  
+  <div class="post-content">
+    <h2 class="post-title"><a href="/weight_compensation/">Design of Passive Weight Compensation for a Robotic Manipulator</a></h2>
+    <p>A serial link manipulator consist of various unbalanced bars (links) attached by torsional joints that are subjected to torque loads due to the weight and configuration of the manipulator. This paper proposes a solution to passive weight compensation for serial link manipulators, using torsional springs. A set of characteristic points...</p>
+    <span class="post-date">2015, Jun
+  &lt;/div&gt;
+&lt;/article&gt;
+
+
+<div class="container">
+  <nav class="pagination" role="pagination">
+    <ul>
+      
+
+      
+      
+      
+    </ul>
+  </nav>
+</div>
+
+
+&lt;/div&gt;
+</span></div></article></div>
+:ET

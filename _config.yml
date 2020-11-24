@@ -1,2 +1,37 @@
-name: Pablo Andres Uriza
-theme: jekyll-theme-cayman
+title: Hi, world! I'm Pablo Andrés Uriza
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Pablo Andrés Uriza # add your name
+author-img: profile_pic.jpg # add your photo
+about-author: Engineer, data-scientist, educator and researcher. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: pa-uriza # add your Github handle
+social-linkedin: andres920310 # add your Linkedin handle
+social-email: pa.uriza274@uniandes.edu.co # add your Email address
+
+# Disqus
+discus-identifier: pa-uriza # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/publications/page:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
