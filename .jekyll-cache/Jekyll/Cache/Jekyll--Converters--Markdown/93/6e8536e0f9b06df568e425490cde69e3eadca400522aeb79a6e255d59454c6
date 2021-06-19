@@ -1,0 +1,5 @@
+I"(<p>A serial link manipulator consist of various unbalanced bars (links) attached by torsional joints that are subjected to torque loads due to the weight and configuration of the manipulator. This paper proposes a solution to passive weight compensation for serial link manipulators, using torsional springs. A set of characteristic points is selected and evaluated through sensibility analysis to define
+the required maneuvers. A nonlinear optimization methodology is used to find the springs parameters to minimize the energy consumption during the execution of the defined maneuvers. The energy saving is estimated through simulation as well as the effect of the maximum preload allowed for the spring.</p>
+
+<p><a href="https://doi.org/10.4028/www.scientific.net/AMM.798.30">More information here</a></p>
+:ET

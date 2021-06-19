@@ -1,5 +1,4 @@
-I"
-<aside class="sidebar">
+I"�<aside class="sidebar">
   <header>
     <div class="about">
       <div class="cover-author-image">
@@ -35,7 +34,7 @@
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">
-      <p>2020 &copy; Pablo Andrés Uriza</p>
+      <p>2021 &copy; Pablo Andrés Uriza</p>
     </div>
   </footer> <!-- End Footer -->
 </aside>
@@ -44,7 +43,18 @@
   
 <article class="post">
   
-    <a class="post-thumbnail" style="background-image: url(/assets/img/weight_compensation.jpg)" href="/weight_compensation/"></a>
+    <a class="post-thumbnail" style="background-image: url(/assets/img/2021-06-18-bicycle_propensity.jpg)" href="/bicycle_propensity/"></a>
+  
+  <div class="post-content">
+    <h2 class="post-title"><a href="/bicycle_propensity/">Is the built-environment at origin, on route, and at destination associated with bicycle commuting? A gender-informed approach</a></h2>
+    <p>There is limited evidence on the gender differences and location-specific built-environment factors associated with bicycling in Latin American cities. This study aimed to assess commuting in Bogotá by (1) analyzing the gender-specific trend of the standardized number of bicycle commuters during 2005–2017; and (2) assessing the socio-demographic, community, built-environment and...</p>
+    <span class="post-date">2021, Jun
+  &lt;/div&gt;
+&lt;/article&gt;
+
+<article class="post">
+  
+    <a class="post-thumbnail" style="background-image: url(/assets/img/2015-06-15-weight_compensation.jpg)" href="/weight_compensation/"></a>
   
   <div class="post-content">
     <h2 class="post-title"><a href="/weight_compensation/">Design of Passive Weight Compensation for a Robotic Manipulator</a></h2>
@@ -68,5 +78,5 @@
 
 
 &lt;/div&gt;
-</span></div></article></div>
+</span></div></article></span></div></article></div>
 :ET
